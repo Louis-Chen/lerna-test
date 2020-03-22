@@ -1,0 +1,30 @@
+{
+  "name": "content",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "LuisChen <leo5916267@gmail.com>",
+  "homepage": "https://github.com/Louis-Chen/lerna-test#readme",
+  "license": "ISC",
+  "main": "lib/content.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Louis-Chen/lerna-test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Louis-Chen/lerna-test/issues"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
