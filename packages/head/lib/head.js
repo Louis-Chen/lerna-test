@@ -1,7 +1,16 @@
-'use strict';
+import React from 'react'
 
-module.exports = head;
-
-function head() {
-    // TODO
+const Head = () => {
+	return (
+		<div
+			style={{
+				width: '100%',
+				height: '300px',
+				backgroundColor: 'red'
+			}}
+		>
+			Head
+		</div>
+	)
 }
+export default Head
