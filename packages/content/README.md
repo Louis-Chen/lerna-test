@@ -1,11 +1,11 @@
-# `content`
+# `@react/content`
 
 > TODO: description
 
 ## Usage
 
 ```
-const content = require('content');
+const content = require('@react/content');
 
 // TODO: DEMONSTRATE API
 ```

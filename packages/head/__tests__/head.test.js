@@ -2,6 +2,6 @@
 
 const head = require('..');
 
-describe('head', () => {
+describe('@react/head', () => {
     it('needs tests');
 });

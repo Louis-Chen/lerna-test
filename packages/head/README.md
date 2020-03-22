@@ -1,11 +1,11 @@
-# `head`
+# `@react/head`
 
 > TODO: description
 
 ## Usage
 
 ```
-const head = require('head');
+const head = require('@react/head');
 
 // TODO: DEMONSTRATE API
 ```

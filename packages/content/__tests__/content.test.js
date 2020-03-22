@@ -2,6 +2,6 @@
 
 const content = require('..');
 
-describe('content', () => {
+describe('@react/content', () => {
     it('needs tests');
 });

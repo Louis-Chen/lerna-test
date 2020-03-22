@@ -1,5 +1,5 @@
 {
-  "name": "head",
+  "name": "@react/head",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "LuisChen <leo5916267@gmail.com>",
@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Louis-Chen/lerna-test.git"
