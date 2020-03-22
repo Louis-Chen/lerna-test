@@ -1,7 +1,16 @@
-'use strict';
+import React from 'react'
 
-module.exports = content;
-
-function content() {
-    // TODO
+const ContentComponent = () => {
+	return (
+		<div
+			style={{
+				width: '300px',
+				height: '200px'
+			}}
+		>
+			ContentComponent
+		</div>
+	)
 }
+
+export default ContentComponent
